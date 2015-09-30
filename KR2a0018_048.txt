@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 梁書
-#+DATE: 2015-09-23 09:41:45
-#+PROPERTY: JUAN 48
+#+DATE: 2015-08-24 22:20:25.070202
+#+PROPERTY: ID KR2a0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十八
 <pb:KR2a0018_WYG_048-1a>¶
 欽定四庫全書¶
 　梁書卷四十八¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　梁書卷四十八¶
+#+PROPERTY: JUAN 卷四十八考證
 <pb:KR2a0018_WYG_048-25a>¶
 　梁書卷四十八考證¶
 賀瑒傳常恨貪祿代耕不及飬○貪南史作食應從之¶
@@ -452,4 +455,3 @@
 　¶
 　¶
 　梁書卷四十八考證¶
-

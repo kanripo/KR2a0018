@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 梁書
-#+DATE: 2015-09-23 09:41:45
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:20:24.247146
+#+PROPERTY: ID KR2a0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR2a0018_WYG_008-1a>¶
 欽定四庫全書¶
 　梁書卷八¶
@@ -182,6 +184,7 @@
 無怠烝烝以孝大舜之徳其何遠之有哉¶
 　¶
 　梁書卷八¶
+#+PROPERTY: JUAN 卷八考證
 <pb:KR2a0018_WYG_008-11a>¶
 　梁書卷八考證¶
 昭明太子傳為文章英華二十卷○監本脱文章二字¶
@@ -200,4 +203,3 @@
 　¶
 　¶
 　梁書卷入考證¶
-

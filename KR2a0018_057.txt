@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 梁書
-#+DATE: 2015-09-23 09:41:46
-#+PROPERTY: JUAN 57
+#+DATE: 2015-08-24 22:20:25.312215
+#+PROPERTY: ID KR2a0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [跋]
 <pb:KR2a0018_WYG_057-1a>¶
 　　編修(臣人龍/)謹言唐貞觀三年詔姚思廉與魏徴¶
 　　同撰梁書思亷梁史官姚察子推其父意復採謝¶
@@ -15,4 +17,3 @@
 　　(臣/)等奉¶
 勅校刋深愧學殖淺陋謹将南史與本文詳加叅校辨¶
 　　其訛舛條其同異録為考證以附卷末云(臣/)謹識¶
-

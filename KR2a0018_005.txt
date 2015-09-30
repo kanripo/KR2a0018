@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 梁書
-#+DATE: 2015-09-23 09:41:45
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:20:24.183086
+#+PROPERTY: ID KR2a0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR2a0018_WYG_005-1a>¶
 欽定四庫全書¶
 　梁書卷五¶
@@ -560,6 +562,7 @@
 　¶
 　¶
 　梁書卷五¶
+#+PROPERTY: JUAN 卷五考證
 <pb:KR2a0018_WYG_005-32a>¶
 　梁書卷五考證¶
 文帝紀蠢蠢黎民家有隕山之泣○南本作家隕(缺/)山¶
@@ -578,4 +581,3 @@
 　¶
 　¶
 　梁書卷五考證¶
-

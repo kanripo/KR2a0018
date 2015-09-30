@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 梁書
-#+DATE: 2015-09-23 09:41:45
-#+PROPERTY: JUAN 39
+#+DATE: 2015-08-24 22:20:24.770389
+#+PROPERTY: ID KR2a0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十九
 <pb:KR2a0018_WYG_039-1a>¶
 欽定四庫全書¶
 　梁書卷三十九¶
@@ -254,6 +256,7 @@
 　¶
 　¶
 　梁書卷三十九¶
+#+PROPERTY: JUAN 卷三十九考證
 <pb:KR2a0018_WYG_039-15a>¶
 　梁書卷三十九考證¶
 元法僧𫝊大同中徴侍中左衛將軍見景隆後為廣州¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　梁書卷三十九考證¶
-

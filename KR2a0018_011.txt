@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 梁書
-#+DATE: 2015-09-23 09:41:45
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:20:24.286713
+#+PROPERTY: ID KR2a0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR2a0018_WYG_011-1a>¶
 欽定四庫全書¶
 　梁書卷十一¶
@@ -236,6 +238,7 @@
 　¶
 　¶
 　梁書卷十一¶
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR2a0018_WYG_011-14a>¶
 　梁書卷十一考證¶
 吕僧珍𫝊妖賊唐㝢之冦東陽○㝢閣本作瑀又無之¶
@@ -254,4 +257,3 @@
 　¶
 　¶
 　梁書卷十一考證¶
-

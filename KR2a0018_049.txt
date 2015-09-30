@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 梁書
-#+DATE: 2015-09-23 09:41:45
-#+PROPERTY: JUAN 49
+#+DATE: 2015-08-24 22:20:25.098394
+#+PROPERTY: ID KR2a0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十九
 <pb:KR2a0018_WYG_049-1a>¶
 欽定四庫全書¶
 　梁書卷四十九¶
@@ -326,6 +328,7 @@
 　¶
 　¶
 　梁書卷四十九¶
+#+PROPERTY: JUAN 卷四十九考證
 <pb:KR2a0018_WYG_049-19a>¶
 　梁書巻四十九考證¶
 到沆𫝊時髙祖讌華光殿○光監本訛元今從南史改¶
@@ -344,4 +347,3 @@
 　¶
 　¶
 　梁書卷四十九考證¶
-

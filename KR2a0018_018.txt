@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 梁書
-#+DATE: 2015-09-23 09:41:45
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:20:24.401629
+#+PROPERTY: ID KR2a0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR2a0018_WYG_018-1a>¶
 欽定四庫全書¶
 　梁書卷十八¶
@@ -272,6 +274,7 @@
 　¶
 　¶
 　梁書卷十八¶
+#+PROPERTY: JUAN 卷十八考證
 <pb:KR2a0018_WYG_018-16a>¶
 　梁書卷十八考證¶
 張惠紹傳累有戰功○監本缺戰功二字又下文歴官¶
@@ -290,4 +293,3 @@
 　¶
 　¶
 　梁書卷十八考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 梁書
-#+DATE: 2015-09-23 09:41:45
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:20:24.272887
+#+PROPERTY: ID KR2a0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR2a0018_WYG_010-1a>¶
 欽定四庫全書¶
 　梁書卷十¶
@@ -344,6 +346,7 @@
 　¶
 　¶
 　梁書卷十¶
+#+PROPERTY: JUAN 卷十考證
 <pb:KR2a0018_WYG_010-20a>¶
 　梁書卷十考證¶
 蕭穎達傳髙祖進江州○江一本作漂¶
@@ -362,4 +365,3 @@
 　¶
 　¶
 　梁書卷十考證¶
-

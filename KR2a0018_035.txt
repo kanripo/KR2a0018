@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 梁書
-#+DATE: 2015-09-23 09:41:45
-#+PROPERTY: JUAN 35
+#+DATE: 2015-08-24 22:20:24.696988
+#+PROPERTY: ID KR2a0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十五
 <pb:KR2a0018_WYG_035-1a>¶
 欽定四庫全書¶
 　梁書卷三十五¶
@@ -236,6 +238,7 @@
 　¶
 　¶
 　梁書卷三十五¶
+#+PROPERTY: JUAN 卷三十五考證
 <pb:KR2a0018_WYG_035-14a>¶
 　梁書卷三十五考證¶
 蕭子恪𫝊眀帝悉召子恪兄弟親従七十餘人入西省¶
@@ -254,4 +257,3 @@
 　¶
 　¶
 　梁書卷三十五考證¶
-
